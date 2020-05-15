@@ -2,6 +2,6 @@
 
 print "Hello World !!!";
 echo "<body style='background-color:yellow'>";
-print `date`;
+
 
 ?>
